@@ -1,7 +1,12 @@
 ---
 layout: page
-title: Reading Machines /nTechnology and the Book
-subtitle: An experiential graduate seminar in the English Department at Northeastern University/nSpring 2019
+title: | 
+  Reading Machines 
+  Technology and the Book
+subtitle: |
+  An experiential graduate seminar in the 
+  English Department at Northeastern University
+  Spring 2019
 bigimg: /img/letterpress.jpg
 ---
 

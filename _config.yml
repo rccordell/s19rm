@@ -4,34 +4,30 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "s19rm.ryancordell.org"
-baseurl: ""
+# url: ""
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://rccordell.github.io/s19rm"
+baseurl: "/s19rm"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: |
-  Reading Machines
-  Technology and the Book
+title: Reading Machines — Technology and the Book
 
 # Short description of your site
-description: |
-  An experiential graduate course in the 
-  English Department at Northeastern University
-  Spring 2019	
+description: An experiential graduate course in the English Department at Northeastern University
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About: "index"
+  # About: "index"
   Policies: "policies"
   Schedule: "schedule"
   Assignments: "assignments"
+  Updates: "updates"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
