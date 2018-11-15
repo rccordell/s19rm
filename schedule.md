@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Class Schedule
-bigimg: /img/VictoriaPress-banner.jpg
+bigimg: /img/differenceEngine.jpg
 ---
 
 
