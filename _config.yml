@@ -14,10 +14,15 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Reading Machines — Technology and the Book
+title: |
+  Reading Machines
+  Technology and the Book
 
 # Short description of your site
-description: An experiential graduate course in the English Department at Northeastern University.
+description: |
+  An experiential graduate course in the 
+  English Department at Northeastern University
+  Spring 2019	
 
 # --- Navigation bar options --- #
 
