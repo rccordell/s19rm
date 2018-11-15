@@ -1,24 +1,8 @@
 ---
 layout: page
-title: Oceanic Exchanges
-subtitle: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914
-bigimg: /img/HMS-AGAMEMNON.jpg
+title: Reading Machines: Technology and the Book
+subtitle: An experiential graduate seminar in the English Department at Northeastern University
+bigimg: /img/8155665827_08680a7ca1_o.jpg
 ---
 
-Oceanic Exchanges (OcEx) is funded through the [Transatlantic Partnership for Social Sciences and Humanities 2016 Digging Into Data Challenge](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper).
-
-The dramatic expansion of newspapers over the 19th century created a global culture of abundant, rapidly circulating information. The significance of the newspaper has largely been defined in metropolitan and national terms in scholarship, while digitization by local institutions further situates newspapers in national contexts. OcEx brings together leading efforts in computational periodicals research from six countries—Finland, Germany, Mexico, the Netherlands, the United Kingdom, and the United States—to examine patterns of information flow across national and linguistic boundaries. 
-
-Through computational analysis, OcEx also crosses the boundaries that separate digitized newspaper corpora to illustrate the global connectedness of 19th century newspapers. OcEx uncovers how the international was refracted through the local as news, advice, vignettes, popular science, poetry, fiction, and more. By linking research across large-scale digital newspaper collections, OcEx offers a model for data custodians that host large-scale humanities data.
-
-We’re just getting started, so watch for more in 2017-2019.
-
-## Suggested Project Citation
-
-Oceanic Exchanges Project Team, 2017. *Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914*. DOI 10.17605/OSF.IO/WA94S. Available at: [osf.io/wa94s](https://osf.io/wa94s).
-
-For more citation options, please visit our [Open Science Framework](https://osf.io/wa94s) page.
-
------
-
-*Our website cover image depicts HMS* Agamemnon *laying the transatlantic telegraph cable in 1857 or 58. The cable was joined on 29 July, 1858. The public domain image was adapted [from the scan on Wikimedia](https://commons.wikimedia.org/wiki/File:H.M.S._%E2%80%9CAGAMEMNON%E2%80%9D_laying_cable.jpg).*
+This course will pivot around the double valence of its title, outlining a literary history of "new media" from the hand-press period to the present. First, we will draw on scholarship in book history, bibliography, media studies, and digital humanities to better understand *machines of reading* (e.g. the printed book, the internet) as material, historical, and cultural objects. We will examine how practices of reading, writing, and publishing have interacted—thematically and materially—with contemporaneous technological innovations over the past 250 years. We will complement our readings with praxis, gaining hands-on experience with textual technologies from letterpress (using the English Department's new letterpress studio) to computer programming, as well as direct experience with archival materials in special collections around Boston. Together, weekly "book labs" and course discussions will help us consider relationships among modes of textual production, reception, and interpretation: including in our purview both "intellectual work," such as writing, and "manual labor," such as typesetting. Through our discussions, we will unpack the second valence of the course title, developing greater capacities to critically *read machines*, analyzing the political, cultural, and social forces that shape—and are shaped by—textual technologies. We will raise urgent questions around privacy, algorithmic bias, intellectual property, information overload, and textual authority, asking how a rich new media history might inform our technological present and contribute to a richer construction of the digital humanities field. This course will include a substantial introduction to programming in the R language, but presumes no prior technological expertise. IOW: we will start at the very beginning (a very good place to start). 
