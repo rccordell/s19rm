@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading Machines: Technology and the Book
+title: Reading Machines — Technology and the Book
 subtitle: An experiential graduate seminar in the English Department at Northeastern University
 bigimg: /img/letterpress.jpg
 ---
