@@ -29,15 +29,13 @@ You will have significant leeway in how you write your fieldbook entries. I want
 1. Prose that both describes the work done in the lab and reflects analytically on that work. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate our course readings into these reflections, often through direct quotation. Use your fieldbooks to explore ideas from the readings that you found particularly interesting, and especially ideas we did not have time to discuss in class. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for your seminar project.
 
 2. A header that will allow me to publish your fieldbook easily on the course website and makes clear precisely which lab activity a given entry records. We will go over this header in our first lab, but I've included a model below you can simply copy, paste, and modify. As an example, you might include the following lines at the top of each file (or each entry if you're using a single file), modified to suit the specifics of each week:
-
-``` 
----
-layout: post
-title: YOUR TITLE HERE
-author: YOUR NAME HERE
----
-```
-
+    ``` 
+    ---
+    layout: post
+    title: YOUR TITLE HERE
+    author: YOUR NAME HERE
+    ---
+    ```
 3. The filename must also follow a very specific convention in order to post correctly. Essentially, it lists the date (of submission) in Year, Month, Date format, followed by your last name (or pseudonym) and some words, which may include the lab number or words from your title. Essentially, it should look like this: `YYYY-MM-DD-NAME-LAB-NUMBER.md`.
 
 ## Flexibility
