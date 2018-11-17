@@ -204,7 +204,7 @@ Each week there are readings listed under *Core* and *Cenumbra*. The core readin
 
 + Alan Galey, "The Enkindling Reciter: E-Books in the Bibliographical Imagination" (2012)
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" (2014)
-+ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen]http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
++ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
 + Amaranth Borsuk, "The Book as Idea" and "The Book as Interface" from *The Book* (2018)
 
 ## Penumbra:
