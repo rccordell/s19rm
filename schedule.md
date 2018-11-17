@@ -251,12 +251,13 @@ The majority of our readings will be available online or through [a digital cour
 ## Core:
 
 + Matthew G. Kirschenbaum, "Extreme Inscription: A Grammatology of the Hard Drive," from [*Mechanisms: New Media and the Forensic Imagination*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017000001401?auth=SAML) (2008)
-+ Lauren F. Klein, ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017030001401?auth=SAML) (2013)
++ Sydney Padua, *The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer* (2015)
 + Melissa Terras and Julianne Nyhan, ["Father Busa’s Female Punch Card Operatives,"](http://dhdebates.gc.cuny.edu/debates/text/57) from *Debates in the Digital Humanities 2016*
 
 ## Penumbra:
 
 + Ellen Gruber Garvey, "facts and FACTS: Abolitionists’ Database Innovations," from [*"Raw Data" Is an Oxymoron*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017080001401?auth=SAML) (2013)
++ Lauren F. Klein, ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017030001401?auth=SAML) (2013)
 + Catherine D’Ignazio and Lauren F. Klein, ["Feminist Data Visualization"](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf) (2016)
 + Katie Rawson and Trevor Muñoz, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/) (2016)
 + Molly O’Hagan Hardy, ["'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,"](http://dhdebates.gc.cuny.edu/debates/text/82), from *Debates in the Digital Humanities 2016*

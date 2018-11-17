@@ -40,6 +40,7 @@ In progress.
 
 ## Required Texts
 
-The majority of our readings will be available online or through a digital course packet. You will need to acquire the following book, however, which we will read in its entirety:
+The majority of our readings will be available online or through a digital course packet. You will need to acquire the following books, however:
 
 + Amaranth Borsuk, [*The Book*](https://mitpress.mit.edu/books/book) (MIT Press, 2018)
++ Sydney Padua, [*The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer*](https://sydneypadua.com/2dgoggles/the-book/) (2015)
