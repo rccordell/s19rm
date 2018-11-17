@@ -193,17 +193,17 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Core:
  
-+ Read "Beautiful Snow" and 4 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org). 
-    + Read the poems and also look at the example newspaper printing linked at the top of each.
 + Meredith McGill, "A Matter of the Text" from [*American Literature and the Culture of Reprinting, 1834-1853*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016070001401?auth=SAML) (2007)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (2009) *Note: make sure to read each of the sections in the table of contents at the top*
++ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](http://viraltexts.org/2016/04/08/fugitive-verses/) (2017). Also Read "Beautiful Snow" and 4 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
 
 ## Penumbra:
 
 + Melissa J. Homestead, ["'Every Body See the Theft': Fanny Fern and Literary Proprietorship in Antebellum America"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016140001401?auth=SAML) (2001)
 + Ellen Gruber Garvey, ["Anonymity, Authorship, and Recirculation: A Civil War Episode"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016330001401?auth=SAML) (2006)
 + Leslee Thorne-Murphy, ["Re-Authorship: Authoring, Editing, and Coauthoring the Transatlantic Publications of Charlotte M. Yonge's Aunt Charlotte's Stories of Bible History"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016380001401?auth=SAML) (2010)
-+ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](http://viraltexts.org/2016/04/08/fugitive-verses/) (2017) 
++ Rachael Scarborough King, "Introduction" to [*Writing to the World : Letters and the Origins of Modern Print Genres*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894268820001401?auth=SAML) (2018)
+
 
 ### Lab 7: Breaking News
 
