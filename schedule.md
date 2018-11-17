@@ -9,21 +9,25 @@ bigimg: /img/differenceEngine.jpg
 Each week there are readings listed under *Core* and *Penumbra*. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them. The penumbral readings include some of the many brilliant pertinent readings I could not require because time is, sadly, finite. Each week you should choose (at least) one of the penumbral readings, based on your own interests, to read closely and be prepared to discuss in class. 
 In the week you lead class you should prepare all of the core and penumbral readings, and if you choose to dig into one of these topics for an assignment the penumbral readings are the first place you can start expanding your thinking.
 
+## Accessing Readings
+
+The majority of our readings will be available online or through [a digital course packet in Leganto](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/lists/8892775840001401?auth=SAML). The first time you wish to access items from Leganto you will need to log in through Blackboard (the only time we'll use it this semester), but thereafter the direct links in the schedule should work. If you switch to a new computer or device you may need to log in through Blackboard once. 
+
 -----
 
 # January 9: Medium
 
 ## Core:
 
-+ Lisa Gitelman, "Introduction: Media as Historical Subjects," from *Always Already New: Media, History, and the Data of Culture* (MIT Press, 2006)
++ Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892858620001401?auth=SAML) (MIT Press, 2006)
 + Alan Liu, ["Imagining the New Media Encounter"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) (2008)
-+ N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," Introduction to *Comparative Textual Media* (2013, [Leganto link](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892776320001401?auth=SAML))
-+ Mark Alan Mattes, "Media" (2018)
++ N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892776320001401?auth=SAML) (2013)
++ Mark Alan Mattes, ["Media"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893988920001401?auth=SAML) (2018)
 
 ## Penumbra:
 
 + Marshall McLuhan, "The Medium is the Message" (1964)
-+ N. Katherine Hayles, "Media and Materiality" and "Material Metaphors, Technotexts, and Media-Specific Analysis" from *Writing Machines* (2002)  
++ N. Katherine Hayles, "Media and Materiality" and "Material Metaphors, Technotexts, and Media-Specific Analysis" from [*Writing Machines*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892838240001401?auth=SAML) (2002)  
 + Tara Brabazon, ["Dead Media: Obsolescence and Redundancy in Media History"](https://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701) (2013)
 
 ### Lab 1: Mark(it all)down
@@ -37,7 +41,7 @@ In the week you lead class you should prepare all of the core and penumbral read
 + Octave Uzanne, ["The End of Books"](https://ebooks.adelaide.edu.au/u/uzanne/octave/end/) (1894)
 + (Watch) Carl Schlesinger and David Loeb Weiss, ["Farewell etaoin shrdlu"](https://vimeo.com/127605643) (1978, about 30 minutes)
 + Amaranth Borsuk, "The Book as Object" from *The Book* (2018)
-+ Meredith L. McGill, "Format" (2018)
++ Meredith L. McGill, ["Format"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991110001401?auth=SAML) (2018)
 
 ## Penumbra:
 
@@ -45,9 +49,9 @@ In the week you lead class you should prepare all of the core and penumbral read
   + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
   + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
   + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
-+ Wendy Hui Kong Chun, "The Enduring Ephemeral, or the Future is a Memory" (2008)
-+ Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from *Racing the Beam: The Atari Video Computer System" (2009)
-+ Jonathan Sterne, "Format Theory" from *MP3: The Meaning of a Format* (2012)
++ Wendy Hui Kong Chun, ["The Enduring Ephemeral, or the Future is a Memory"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991600001401?auth=SAML) (2008)
++ Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from [*Racing the Beam: The Atari Video Computer System*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991780001401?auth=SAML) (2009)
++ Jonathan Sterne, "Format Theory" from [*MP3: The Meaning of a Format*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991830001401?auth=SAML) (2012)
 
 ### Lab 2: For the Love of…
 
@@ -57,18 +61,18 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 ## Core:
 
-+ Charles W. Chesnutt, "Baxter's Procustes" (1904)
-+ Robert Darnton, "The History of Books Revisited" (2007)
-+ Leah Price, "Introduction" and "Reader's Block" from *How to Do Things with Books in Victorian Britain* (2012)
++ Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)
++ Robert Darnton, ["What is the History of Books? Revisited"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892823240001401?auth=SAML) (2007)
++ Leah Price, "Introduction" and "Reader's Block" from [*How to Do Things with Books in Victorian Britain*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992870001401?auth=SAML) (2012)
 + Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
 
 ## Penumbra:
 
-+ Robert Darnton, "What is the History of Books?" (1982)
-+ Leah Price, "From The History of the Book to a 'History of the Book'" (2009)
++ Robert Darnton, ["What is the History of Books?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892825030001401?auth=SAML) (1982)
++ Leah Price, ["From The History of the Book to a 'History of the Book'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993000001401?auth=SAML) (2009)
 + Jessica Pressman, ["The Aesthetic of Bookishness in Twenty-First Century Literature"](http://hdl.handle.net/2027/spo.act2080.0048.402) (2009)
-+ Patricia Crain, "Reading Childishly? A Codicology of the Modern Self" from *Comparative Textual Media* (2013)
-+ Matthew Kirschenbaum and Sarah Werner, "Digital Scholarship and Digital Studies: the State of the Discipline" (2014)
++ Patricia Crain, "Reading Childishly? A Codicology of the Modern Self" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993570001401?auth=SAML) (2013)
++ Matthew Kirschenbaum and Sarah Werner, ["Digital Scholarship and Digital Studies: the State of the Discipline"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993700001401?auth=SAML) (2014)
 
 ### Lab 3: Codicological Thinking
 
@@ -78,14 +82,14 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 ## Core: 
 
-+ Herman Melville, "The Paradise of Bachelors and the Tartarus of Maids" (1855)
-+ Bonnie Mak, "Architectures of the Page" from *How the Page Matters* (2012)
-+ Jonathan Senchyne, "Paper Nationalism: Material Textuality and Communal Affiliation in Early America" (2017)
++ Herman Melville, "The Paradise of Bachelors and the Tartarus of Maids" in [*Herman Melville: the Dover Reader*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993980001401?auth=SAML) (1855)
++ Bonnie Mak, "Architectures of the Page" from [*How the Page Matters*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994230001401?auth=SAML) (2012)
++ Jonathan Senchyne, ["Paper Nationalism: Material Textuality and Communal Affiliation in Early America"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994370001401?auth=SAML) (2017)
 
 ## Penumbra:
 
-+ Lisa Gitelman, "Preface," "A Short History of __________," and/or "Near Print and Beyond Paper: Knowing by \*.pdf" from *Paper Knowledge: Toward a Media History of Documents* (2014)
-+ Jonathan Senchyne, "Rags Make Paper, Paper Makes Money: Material Texts and Metaphors of Capital" (2017)
++ Lisa Gitelman, "Preface," "A Short History of __________," and/or "Near Print and Beyond Paper: Knowing by \*.pdf" from [*Paper Knowledge: Toward a Media History of Documents*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994470001401?auth=SAML) (2014)
++ Jonathan Senchyne, ["Rags Make Paper, Paper Makes Money: Material Texts and Metaphors of Capital"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994560001401?auth=SAML) (2017)
 
 ### Dead Media Poster Presentations
 
@@ -98,15 +102,15 @@ In the week you lead class you should prepare all of the core and penumbral read
 + Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II)
 + Elyse Graham, ["The Printing Press as Metaphor"](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html) (2016)
 + Amaranth Borsuk, "The Book as Content" from *The Book* (2018)
-+ Marcy J. Dinius, "Press" (2018)
++ Marcy J. Dinius, ["Press"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994710001401?auth=SAML) (2018)
 
 ## Penumbra
 
-+ Elizabeth Eisenstein, "The Unacknowledged Revolution" from *The Printing Press as an Agent of Change* (1979)
++ Elizabeth Eisenstein, ["An Unacknowledged Revolution Revisited"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994820001401?auth=SAML) (2002)
 + (Watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2008) *Note: This video is about 1 hour long; plan accordingly!*
-+ Ann Blair, "Introduction" from *Too Much To Know* (2011)
-+ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from *Comparative Textual Media* (2013)
-+ Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017)
++ Ann Blair, "Introduction" from [*Too Much To Know*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996330001401?auth=SAML) (2011)
++ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996790001401?auth=SAML) (2013)
++ Matthew P. Brown, ["Blanks: Data, Method, and the British American Print Shop"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893997900001401?auth=SAML) (2017)
 
 ### Lab 4: Letterpress I
 
@@ -117,18 +121,19 @@ In the week you lead class you should prepare all of the core and penumbral read
 ## Core:
 
 + Articles about the [Victoria Press](https://en.wikipedia.org/wiki/Victoria_Press)
-  + M. M. H., "A Ramble with Mrs. Grundy: A Visit to the Victoria Printing Press," *English Woman's Journal* (1860)
-  + "The Victoria Press," *Illustrated London News* (15 June 1861)
-  + Emily Faithfull, "Women Compositors," *English Woman's Journal* (1861)
+  + M. M. H., ["A Ramble with Mrs. Grundy: A Visit to the Victoria Printing Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009460001401?auth=SAML) (1860)
+  + ["The Victoria Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009510001401?auth=SAML) *Illustrated London News* (15 June 1861)
+  + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009560001401?auth=SAML) *English Woman's Journal* (1861)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
 + Matthew G. Kirschenbaum, TBA from *Track Changes: a Literary History of Word Processing* (2016)
 
 ## Penumbra:
 
 + ["Printing" vocational film](https://youtu.be/bPCiWiLu-W4) (1947) and ["Learning to Set Type" vocational film](https://youtu.be/AHrLIVeH1KM) (1940s)
-+ Donald F. McKenzie, "Printers of the Mind" (1969)
-+ Ellen Cushman, "'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance" (2011)
-+ Joshua Ratner, "Paratexts" (2018)
++ Donald F. McKenzie, ["Printers of the Mind: Some Notes on Bibliographical Theories and Printing-House Practices"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009710001401?auth=SAML) (1969)
++ Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009840001401?auth=SAML) (2011)
++ Andrew Piper, ["Deleafing: The History and Future of Losing Print"](http://www.enl.auth.gr/gramma/gramma13/2.pdf) (2013)
++ Joshua Ratner, ["Paratexts"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894012090001401?auth=SAML) (2018)
 
 ###  Lab 5: Letterpress II
 
@@ -140,8 +145,8 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 ## Core: 
 
-+ Ellen Gruber Garvey, "Introduction" from *Writing with Scissors* (2012)
-+ Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from *Early African American Print Culture* (2012)
++ Ellen Gruber Garvey, "Introduction" from [*Writing with Scissors*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894014870001401?auth=SAML) (2012)
++ Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from [*Early African American Print Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015010001401?auth=SAML) (2012)
 + Browse at least 2 of the scrapbooks below:
      + [Frederick Douglass's Scrapbook](http://memory.loc.gov/cgi-bin/ampage)
      + [Scrapbook about Frederick Douglass](http://www.libraryweb.org/~digitized/scrapbooks/rsc00001color.pdf)
@@ -151,7 +156,7 @@ In the week you lead class you should prepare all of the core and penumbral read
     + [Carry Amelia Nation diary and scrapbook](http://www.kansasmemory.org/item/219778)
     + [The Scrapbooks of Molly Picon](http://www.ajhs.org/Molly/index.cfm)
     + [Willa Cather's childhood scrapbook](http://nebraskahistory.org/exhibits/saving_memories/scrapbook_cather.htm)
-+ Juliet S. Sperling, "Image" (2018)
++ Juliet S. Sperling, ["Image"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015100001401?auth=SAML) (2018)
 
 ## Penumbra: 
 
@@ -165,7 +170,7 @@ In the week you lead class you should prepare all of the core and penumbral read
 ## Core: 
 
 + William Blake, ["The Tyger"](http://www.blakearchive.org/exist/blake/archive/object.xq?objectid=songsie.b.illbk.35&java=no) and ["London"](http://www.blakearchive.org/exist/blake/archive/object.xq?objectid=songsie.b.illbk.36&java=no) (For each poem, compare at least 3 editions).
-+ Donald F. McKenzie, "The Book as an Expressive Form" from *Bibliography and the Sociology of Texts* (orig. 1986)
++ Donald F. McKenzie, "The Book as an Expressive Form" from [*Bibliography and the Sociology of Texts*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015240001401?auth=SAML) (orig. 1986)
 + Ryan Cordell, ["'Q i-jtb the Raven': Taking Dirty OCR Seriously"](https://ryancordell.org/research/qijtb-the-raven/) (2017)
 
 ## Penumbra:
@@ -175,7 +180,6 @@ In the week you lead class you should prepare all of the core and penumbral read
 + Joseph Viscomi, ["Illuminated Printing" exhibit](http://www.blakearchive.org/staticpage/biography?p=illuminatedprinting) from the *William Blake Archive*
 + Whitney Anne Trettien, ["A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica"](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) (2013)
 + Martin Paul Eve, ["'You have to keep track of your changes': The Version Variants and Publishing History of David Mitchell's Cloud Atlas"](https://olh.openlibhums.org/article/10.16995/olh.82/) (2016)
-
 
 ### Lab 6: Letterpress III
 
@@ -191,14 +195,14 @@ In the week you lead class you should prepare all of the core and penumbral read
  
 + Read "Beautiful Snow" and 4 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org). 
     + Read the poems and also look at the example newspaper printing linked at the top of each.
-+ Meredith McGill, "A Matter of the Text" from *American Literature and the Culture of Reprinting, 1834-1853* (2007)
++ Meredith McGill, "A Matter of the Text" from [*American Literature and the Culture of Reprinting, 1834-1853*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016070001401?auth=SAML) (2007)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (2009) *Note: make sure to read each of the sections in the table of contents at the top*
 
 ## Penumbra:
 
-+ Melissa J. Homestead, "'Every Body See the Theft': Fanny Fern and Literary Proprietorship in Antebellum America" (2001)
-+ Ellen Gruber Garvey, "Anonymity, Authorship, and Recirculation: A Civil War Episode" (2006)
-+ Leslee Thorne-Murphy, "Re-Authorship: Authoring, Editing, and Coauthoring the Transatlantic Publications of Charlotte M. Yonge's Aunt Charlotte's Stories of Bible History" (2010)
++ Melissa J. Homestead, ["'Every Body See the Theft': Fanny Fern and Literary Proprietorship in Antebellum America"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016140001401?auth=SAML) (2001)
++ Ellen Gruber Garvey, ["Anonymity, Authorship, and Recirculation: A Civil War Episode"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016330001401?auth=SAML) (2006)
++ Leslee Thorne-Murphy, ["Re-Authorship: Authoring, Editing, and Coauthoring the Transatlantic Publications of Charlotte M. Yonge's Aunt Charlotte's Stories of Bible History"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016380001401?auth=SAML) (2010)
 + Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](http://viraltexts.org/2016/04/08/fugitive-verses/) (2017) 
 
 ### Lab 7: Breaking News
@@ -213,9 +217,10 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 ## Penumbra:
 
-+ Alan Galey, "The Enkindling Reciter: E-Books in the Bibliographical Imagination" (2012)
-+ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" (2014)
-
++ Alan Galey, ["The Enkindling Reciter: E-Books in the Bibliographical Imagination"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016570001401?auth=SAML) (2012)
++ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016650001401?auth=SAML) (2014)
++ Kate Crawford and Vladan Joler, ["Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor"](https://anatomyof.ai/) (2018)
++ [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 
 ### Lab 8: Building a Bot I
 
@@ -225,16 +230,17 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 ## Core: 
 
-+ Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010)
-+ Michael Whitmore, ["Text: A Massively Addressable Object,"](http://dhdebates.gc.cuny.edu/debates/text/28) from *Debates in the Digital Humanities* (2012)
++ Jerome McGann, ["The Textual Condition"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016810001401?auth=SAML) (1991)
++ Sydney Shep, ["'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016710001401?auth=SAML) (2010)
 + Denis Tenen, "Computational Poetics: An Introduction" and "Metaphor Machines" from *Plain Text: The Poetics of Computation* (2018)
 
 ## Penumbra:
 
 + Blog posts from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series.
-+ Jerome McGann, "The Textual Condition" (1991)
-+ Rita Raley, "TXTual Practice," from *Comparative Textual Media* (2013)
-+ Johanna Drucker, "From A to Screen," in *Comparative Textual Media* (2013)
++ Michael Whitmore, ["Text: A Massively Addressable Object,"](http://dhdebates.gc.cuny.edu/debates/text/28) from *Debates in the Digital Humanities* (2012)
++ Rita Raley, "TXTual Practice," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
++ Johanna Drucker, "From A to Screen," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
++ Hannah Alpert-Abrams, ["Machine Reading the *Primeros Libros*](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
 
 ### Lab 9: Computational Text Analysis I
 
@@ -244,13 +250,13 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 ## Core:
 
-+ Matthew G. Kirschenbaum, "Extreme Inscription: A Grammatology of the Hard Drive," from *Mechanisms: New Media and the Forensic Imagination* (2008)
-+ Lauren F. Klein, "The Image of Absence: Archival Silence, Data Visualization, and James Hemings" (2013)
++ Matthew G. Kirschenbaum, "Extreme Inscription: A Grammatology of the Hard Drive," from [*Mechanisms: New Media and the Forensic Imagination*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017000001401?auth=SAML) (2008)
++ Lauren F. Klein, ["The Image of Absence: Archival Silence, Data Visualization, and James Hemings"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017030001401?auth=SAML) (2013)
 + Melissa Terras and Julianne Nyhan, ["Father Busa’s Female Punch Card Operatives,"](http://dhdebates.gc.cuny.edu/debates/text/57) from *Debates in the Digital Humanities 2016*
 
 ## Penumbra:
 
-+ Ellen Gruber Garvey, "facts and FACTS: Abolitionists’ Database Innovations," from *"Raw Data" Is an Oxymoron* (2013)
++ Ellen Gruber Garvey, "facts and FACTS: Abolitionists’ Database Innovations," from [*"Raw Data" Is an Oxymoron*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017080001401?auth=SAML) (2013)
 + Catherine D’Ignazio and Lauren F. Klein, ["Feminist Data Visualization"](http://www.kanarinka.com/wp-content/uploads/2015/07/IEEE_Feminist_Data_Visualization.pdf) (2016)
 + Katie Rawson and Trevor Muñoz, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/) (2016)
 + Molly O’Hagan Hardy, ["'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,"](http://dhdebates.gc.cuny.edu/debates/text/82), from *Debates in the Digital Humanities 2016*
@@ -265,14 +271,17 @@ In the week you lead class you should prepare all of the core and penumbral read
 
 + Benjamin M. Schmidt, ["Do Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99) from *Debates in Digital Humanities 2016*
 + Ted Underwood, ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html) (2017)
-+ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018)
++ Annette Vee, "Introduction: Computer Programming as Literacy" from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017200001401?auth=SAML) (2018)
 
 ## Penumbra:
 
++ Roberto Busa, ["Why Can a Computer Do So Little?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020390001401?auth=SAML) (1976)
 + Cecily Carver, ["Things I Wish Someone Had Told Me When I Was Learning How to Code"](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.qonuz995v) (2013)
++ Vikram Chandra, ["The Beauty of Code"](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) (2014)
 + Lauren Klein, ["The Carework and Codework of the Digital Humanities"](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (2015)
-+ Richard Jean So, "All Models are Wrong" (2017)
-+ Alison Booth, "Mid-Range Reading: Not a Manifesto" (2017)
++ Paul Ford, ["What Is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
++ Richard Jean So, ["All Models are Wrong"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020530001401?auth=SAML) (2017)
++ Alison Booth, ["Mid-Range Reading: Not a Manifesto"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020660001401?auth=SAML) (2017)
 
 ### Lab 11: Computational Text Analysis III
 

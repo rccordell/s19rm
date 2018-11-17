@@ -42,8 +42,6 @@ In progress.
 
 ## Required Texts
 
-The majority of our readings will be available online or through a digital course packet. We will read a few books, however, which you will need to borrow or purchase. I have put those I could on hold at the library; if you plan to use these you should give yourself adequate time since there is only one copy there for the class.
+The majority of our readings will be available online or through a digital course packet. You will need to acquire the following book, however, which we will read in its entirety:
 
-+ Denis Tenen: [*Plain Text: The Poetics of Computation*](https://www.sup.org/books/title/?id=26821) (Stanford University Press, 2017)
 + Amaranth Borsuk, [*The Book*](https://mitpress.mit.edu/books/book) (MIT Press, 2018)
-+ N. Katherine Hayles and Jessica Pressman, [*Comparative Textual Media*](https://www.upress.umn.edu/book-division/books/comparative-textual-media) (University of Minnesota Press, 2013)
