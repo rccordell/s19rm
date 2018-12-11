@@ -270,17 +270,18 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Core:
 
++ Roberto Busa, ["Why Can a Computer Do So Little?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020390001401?auth=SAML) (1976)
++ Stephen Ramsay, TBA from *Reading Machines: Toward an Algorithmic Criticism*
 + Benjamin M. Schmidt, ["Do Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99) from *Debates in Digital Humanities 2016*
-+ Ted Underwood, ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html) (2017)
 + Annette Vee, "Introduction: Computer Programming as Literacy" from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017200001401?auth=SAML) (2018)
 
 ## Penumbra:
 
-+ Roberto Busa, ["Why Can a Computer Do So Little?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020390001401?auth=SAML) (1976)
 + Cecily Carver, ["Things I Wish Someone Had Told Me When I Was Learning How to Code"](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.qonuz995v) (2013)
 + Vikram Chandra, ["The Beauty of Code"](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) (2014)
 + Lauren Klein, ["The Carework and Codework of the Digital Humanities"](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (2015)
-+ Paul Ford, ["What Is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
++ Paul Ford, ["What Is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (2015)
++ Ted Underwood, ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html) (2017)
 + Richard Jean So, ["All Models are Wrong"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020530001401?auth=SAML) (2017)
 + Alison Booth, ["Mid-Range Reading: Not a Manifesto"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020660001401?auth=SAML) (2017)
 
