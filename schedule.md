@@ -7,6 +7,7 @@ bigimg: /img/differenceEngine.jpg
 ## A Note on the Schedule:
 
 Each week there are readings listed under *Core* and *Penumbra*. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them. The penumbral readings include some of the many brilliant pertinent readings I could not require because time is, sadly, finite. Each week you should choose (at least) one of the penumbral readings, based on your own interests, to read closely and be prepared to discuss in class. 
+
 In the week you lead class you should prepare all of the core and penumbral readings, and if you choose to dig into one of these topics for an assignment the penumbral readings are the first place you can start expanding your thinking.
 
 ## Accessing Readings
@@ -19,16 +20,16 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Core:
 
++ Marshall McLuhan, ["The Medium is the Message"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893990860001401?auth=SAML) (1964)
 + Lisa Gitelman, "Introduction: Media as Historical Subjects," from [*Always Already New: Media, History, and the Data of Culture*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892858620001401?auth=SAML) (MIT Press, 2006)
 + Alan Liu, ["Imagining the New Media Encounter"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) (2008)
 + N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892776320001401?auth=SAML) (2013)
-+ Mark Alan Mattes, ["Media"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893988920001401?auth=SAML) (2018)
 
 ## Penumbra:
 
-+ Marshall McLuhan, "The Medium is the Message" (1964)
 + N. Katherine Hayles, "Media and Materiality" and "Material Metaphors, Technotexts, and Media-Specific Analysis" from [*Writing Machines*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892838240001401?auth=SAML) (2002)  
 + Tara Brabazon, ["Dead Media: Obsolescence and Redundancy in Media History"](https://journals.uic.edu/ojs/index.php/fm/article/view/4466/3701) (2013)
++ Mark Alan Mattes, ["Media"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893988920001401?auth=SAML) (2018)
 
 ### Lab 1: Mark(it all)down
 
@@ -46,14 +47,18 @@ The majority of our readings will be available online or through [a digital cour
 ## Penumbra:
 
 + Jane Austen, Letters to her sister Cassandra (these are in order so you can read down from the first link to the next two letters):
-  + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
-  + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
-  + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
+    + [Friday, January 29](http://www.pemberley.com/janeinfo/auslet22.html#letter124)
+    + [Thursday, February 4](http://www.pemberley.com/janeinfo/auslet22.html#letter125)
+    + [February ?? 1813](http://www.pemberley.com/janeinfo/auslet22.html#letter126)
++ 19th-Century Commentaries on Novel Reading:
+    + ["On Novel Reading"](http://www.merrycoz.org/books/NOVELS01.xhtml) (from *The Guardian; or Youth’s Religious Instructor*, 1820)
+    + ["Devouring Books"](http://www.merrycoz.org/books/DEVOURNG.xhtml) (from the *American Annals of Education*, 1835)
+    + M.M. Backus, ["Novel Writers and Publishers"](http://www.merrycoz.org/books/PARLOR.xhtml) (from *Christian Parlor Magazine*, 1844)
 + Wendy Hui Kong Chun, ["The Enduring Ephemeral, or the Future is a Memory"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991600001401?auth=SAML) (2008)
 + Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from [*Racing the Beam: The Atari Video Computer System*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991780001401?auth=SAML) (2009)
 + Jonathan Sterne, "Format Theory" from [*MP3: The Meaning of a Format*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991830001401?auth=SAML) (2012)
 
-### Lab 2: For the Love of…
+### Lab 2: Codexical Thinking
 
 ----- 
 
@@ -74,7 +79,7 @@ The majority of our readings will be available online or through [a digital cour
 + Patricia Crain, "Reading Childishly? A Codicology of the Modern Self" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993570001401?auth=SAML) (2013)
 + Matthew Kirschenbaum and Sarah Werner, ["Digital Scholarship and Digital Studies: the State of the Discipline"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993700001401?auth=SAML) (2014)
 
-### Lab 3: Codicological Thinking
+### Lab 3: Into the Archives
 
 -----
 
@@ -161,7 +166,7 @@ The majority of our readings will be available online or through [a digital cour
 ## Penumbra: 
 
 + Whitney Anne Trettien, ["Creative Destruction / 'Digital Humanities'"](https://medium.com/@whitneytrettien/creative-destruction-digital-humanities-607c080b635e#.u6tzdiwa6) (2016)
-+ Catherine Coker, ["The margins of print? Fan fiction as book history"](https://journal.transformativeworks.org/index.php/twc/article/view/1053)
++ Catherine Coker, ["The margins of print? Fan fiction as book history"](https://journal.transformativeworks.org/index.php/twc/article/view/1053) (2017)
 
 -----
 
@@ -204,8 +209,7 @@ The majority of our readings will be available online or through [a digital cour
 + Leslee Thorne-Murphy, ["Re-Authorship: Authoring, Editing, and Coauthoring the Transatlantic Publications of Charlotte M. Yonge's Aunt Charlotte's Stories of Bible History"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016380001401?auth=SAML) (2010)
 + Rachael Scarborough King, "Introduction" to [*Writing to the World : Letters and the Origins of Modern Print Genres*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894268820001401?auth=SAML) (2018)
 
-
-### Lab 7: Breaking News
+### Lab 7: Reading Yesterday's News
 
 # March 20: Interface
 
@@ -296,4 +300,8 @@ The majority of our readings will be available online or through [a digital cour
 + (watch) ["Elektrobiblioteka / Electrolibrary"](https://vimeo.com/47656204) (2012)
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649) (2013)
 
-### Lab 12: Paper Circuits
+## Penumbra:
+
++ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
+
+### Lab 12: TBA

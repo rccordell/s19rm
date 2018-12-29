@@ -36,7 +36,22 @@ The digital humanities community prizes experimenting (and sometimes even failin
 
 ## Code of Conduct
 
-In progress.
+The code of conduct for this course borrows directly from the stellar model outlined by Northeastern's [Feminist Coding Collective](https://digitalfeministcommons.northeastern.edu/). Their Code of Conduct and Community Guidelines are well worth consulting in full, but I have copied and lightly adapted those items most pertinent to the work we will do in our class.
+
++ **It’s okay not to know**: Assume that no one inherently knows what we’re learning. We all come to this class with different backgrounds and abilities; none of us (including the instructor) will know everything and that is okay! Encourage a space where it’s okay to ask questions.
++ **Be respectful**: Do not use harmful language or stereotypes that target people of all different gender, abilities, races, ages, ethnicities, languages, socioeconomic classes, body types, sexualities, and other aspects of identity.
++ **Online spaces**: Respect each other in both physical and digital spaces.
++ **Collaborative and inclusive interactions**: Avoid speaking over each other. Instead, we want to practice listening to each other and speaking with each other, not at each other.
++ **Use “I” statements**: focusing on your own interpretation of a situation, rather than placing blame or critiquing someone else.
++ **Harassment clause**: The following behaviors are considered harassment and unacceptable in this community (these are borrowed from the [Django Code of Conduct](https://www.djangoproject.com/conduct/)):
+    + Violent threats or language directed against another person.
+    + Discriminatory jokes and language.
+    + Posting sexually explicit or violent material.
+    + Posting (or threatening to post) other people’s personally identifying information (“doxing”).
+    + Personal insults, especially those using racist or sexist terms.
+    + Unwelcome sexual attention.
+    + Advocating for, or encouraging, any of the above behavior.
+    + Repeated harassment of others. In general, if someone asks you to stop, then stop.
 
 ## Required Texts
 
