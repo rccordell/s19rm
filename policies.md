@@ -22,17 +22,10 @@ You will produce a final, (potentially) collaborative project that will ask you 
 
 Digital humanities projects often require collaboration among scholars who bring different intellectual and technical skills to expansive projects. This class will require you to work together both in class and for some of your assignments, distributing responsibilities and sharing credit.
 
-### 4. Your workload and pace may differ from that of your collaborators.
-
-We will do substantial work in teams in this class, and team members will have unique roles to play. Depending on the role you assume, you may be called upon to work with greater intensity earlier (or later) in the semester from some of your teammates or other classmates. I will help guide you through this process, but I cannot guarantee now when you will be busiest this semester. I cannot even guarantee you will do precisely the same amount of work as each of your colleagues. Such are the perils of collaboration.
-
-### 5. You will be required to acquire some technical skills (old and new).
+### 4. You will be required to acquire some technical skills (old and new).
 
 I do not require or assume any particular technical experience as we begin this course, but I will expect you to be willing to experiment with new tools and learn new technical skills throughout the semester. In this course, those skills will run the gamut from the historical—such as letterpress printing—to the contemporary—such as computer programming. “I’m not very technical” will not excuse you from the hands-on portions of the course any more than “I’m not poetic” would excuse you from reading Dickinson in a survey of American literature. Some of the tools we test you may find useful for your research program; some you will not. But I expect you to try them with enthusiasm and an open mind.
 
-### 6. You will have to work (some of the time) in public.
-
-The digital humanities community prizes experimenting (and sometimes even failing) in public. Working in public allows others to learn from what we do and to offer help when we need it. For this course we will blog in public. Before you commit to this course, make sure you are ready and willing to experiment with your ideas in public. While I think such an experiment will reward the risks it entails, I recognize that some might not be willing to venture into public scholarship.
 
 ## Code of Conduct
 

@@ -4,7 +4,7 @@ title: Assignments
 bigimg: /img/VictoriaPress-banner.jpg
 ---
 
-# Leading Class Discussion
+# I. Leading Class Discussion
 
 Once during the semester you will be responsible for leading our class discussion. This means a few things:
 
@@ -12,39 +12,45 @@ Once during the semester you will be responsible for leading our class discussio
 2. You may also tweak our readings for your week by adding one additional article and possibly moving one required reading into the optional category. You should speak with me well in advance about either, as I might see something essential in a piece that is not obvious to you. Any decision to change the reading schedule should be made at least one week prior to your assigned session, so that your colleagues have time to adjust their preparations.
 3. You should come to your assigned class ready with a few questions or points you would like to discuss. I do not expect you to steer us for the entire discussion period, but certainly for the first 20 minutes or so.
 
-# Fieldbooks
+---
 
-"Reading Machines" is an experiential course defined by hands-on labs throughout the semester. Some of these activities will be conducted individually and some in groups.
+# II. Fieldbooks
 
-Your fieldbook will constitute your central scholarly activity during the semester. I call this assignment a "fieldbook" rather than a "journal" to convey its intellectual seriousness and hybridity: your entries will include a mix of description, analysis, code, and figures or images. This ongoing assignment will give you the chance to organize the diverse tasks of the class' experiential work, practice the skills introduced in the labs and coding sessions, bring your experiential work into conversation with class readings and personal research, and experiment with ideas that will be further developed in your final projects. 
+"Reading Machines" is an experiential course that moves between discussion of readings and applied "humanities laboratories" each week. A central goal of the class will be to bring its two facets into conversation: to use our readings and discussions to contextualize our applied work in laboratories, and to use our applied work in laboratories to enrich our understanding of concepts from our readings. 
+
+To help accomplish this goal, you will maintain a fieldbook, which will constitute your central scholarly activity throughout this semester. I call this assignment a "fieldbook" rather than a "journal" to convey its hybridity: week by week, your entries will include a mix of description, analysis, code, figures, or images. This ongoing assignment will give you the chance to organize the diverse tasks of the class' experiential work, practice the skills introduced in the labs, bring your experiential work into conversation with class readings and personal research, and experiment with ideas that will be further developed in your seminar unpaper (see below). 
+
+There will be two types of entries in your fieldbooks: **bibliographic annotation** and **lab report**.  
+
+## Bibliographic Annotation Entries
+
+In order to help you attend closely to our course texts and prepare for each class, you should prepare a few paragraphs responding to the core readings and your chosen penumbral text. I mean a few paragraphs **in total**, *NOT* a few paragraphs per text. Your entries should synthesize and bring readings into conversation, and should focus on a few ideas you want to highlight rather than attempting to summarize everything in the readings. These entries should be prepared, roughly, in the style of the annotated bibliography. It will be easiest to complete this assignment if you jot down notes and ideas while reading.  
+
+You should draft each bibliographic annotation fieldbook entry in its own `.md` file, following the naming convention outlined above, and commit it to your fieldbook repository prior to the pertinent class period. *To emphasize: each class preparation entry should be saved as a separate file in your Github repository.*
+
+## Lab Report Entries
+
+Your lab report entries will vary quite a bit from lab to lab. I may post a prompt for a lab to help start your thinking, in which ase you should begin your reports from these prompts. 
+
+In each lab report entry, I will expect to find a brief  description of the lab activities completed and any outcomes (code, a material product, etc.). For coding labs, you will likely integrate code snippets directly into your Markdown file (more on this as those labs approach), while for other labs you may instead reference external proof of your work, such as photos. I will also expect prose that reflects analytically on the work of the lab, putting it into conversation with *one or two* readings *from the same week of class* as the lab, as well as readings drawn from the larger class or beyond where appropriate. This prose need not be quite as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for the class' Unessay projects.
 
 ## Organizing Your Fieldbook
 
-Your fieldbook will comprise at least 6 entries over the course of the semester, each composed as a Markdown or `.md` file, perhaps including supplemental files such as images referenced in the documents. We will work on setting this up in our first class lab on day one, so it's okay if you do not understand precisely what this means right now. Your fieldbooks will be posted to the [Class Updates](/updates/) section of the course website. Think of these entries as an evolving research paper: they have the same weight and seriousness. 
+Your fieldbook will be a collection of Markdown or `.md` files collected in a [Github Repository](https://github.com/). We will learn how to write in Markdown and contribute to a Github repository during the first laboratory (which you will reflect on in your first lab report). You will share the address of your repository with me so that I can check your progress. I may also ask to repost stellar fieldbook entries on our class website, either under your name or anonymously as you prefer.
 
-## Composition
+You should name your files following the following convention:
 
-You will have significant leeway in how you write your fieldbook entries. I want you to use this space to think through the relationship of praxis and theory in our course, and to apply the ideas of the course to your own research interests. However, there are a few elements I will expect in each entry:
+*For bibliographic nnnotation entries:*
 
-1. Prose that both describes the work done in the lab and reflects analytically on that work. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate our course readings into these reflections, often through direct quotation. Use your fieldbooks to explore ideas from the readings that you found particularly interesting, and especially ideas we did not have time to discuss in class. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for your seminar project.
+`YYYY-MM-DD-bibliographic-WHAT-WORDS-YOU-WANT.md`
 
-2. A header that will allow me to publish your fieldbook easily on the course website and makes clear precisely which lab activity a given entry records. We will go over this header in our first lab, but I've included a model below you can simply copy, paste, and modify. As an example, you might include the following lines at the top of each file (or each entry if you're using a single file), modified to suit the specifics of each week:
-    ``` 
-    ---
-    layout: post
-    title: YOUR TITLE HERE
-    author: YOUR NAME HERE
-    ---
-    ```
-3. The filename must also follow a very specific convention in order to post correctly. Essentially, it lists the date (of submission) in Year, Month, Date format, followed by your last name (or pseudonym) and some words, which may include the lab number or words from your title. Essentially, it should look like this: `YYYY-MM-DD-NAME-LAB-NUMBER.md`.
+*For lab report entries:*
 
-## Flexibility
+`YYYY-MM-DD-labreport-WHAT-WORDS-YOU-WANT.md`
 
-"Reading Machines" will be a challenging and full class. The semester will include 12 labs. To give you some flexibility, you must complete a fieldbook entry for 6 labs over the semester. You may complete more than 6 entries over the semester if you wish.
+### Flexibility
 
-## Pacing Your Field Work
-
-Your fieldbook should be a developing record of your thinking about our class and its activities. Thus you should be working on it steadily, responding to the labs in a timely manner, in part to keep your thinking fresh and in part to avoid falling too far behind as new labs approach. Unless otherwise noted, a fieldbook entry is due within 2 weeks of the associated lab session. 
+Reading Machines is a challenging and full class. The semester will include thirteen weeks of readings and eleven or twelve humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete seven lab report entries. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. Your bibliographic annotation entries are due prior to the pertinent class, while lab report entries are due within two weeks of the pertinent lab session.
 
 # Dead Media Poster
 
