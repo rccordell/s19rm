@@ -183,10 +183,11 @@ The majority of our readings will be available online or through [a digital cour
 + G. Thomas Tanselle, "The Bibliographical Concepts of 'Issue' and 'State'" (1975)
 + Christopher Looby, "Southworth and Seriality" (2004)
 + Joseph Viscomi, ["Illuminated Printing" exhibit](http://www.blakearchive.org/staticpage/biography?p=illuminatedprinting) from the *William Blake Archive*
++ Alan Galey, ["The Enkindling Reciter: E-Books in the Bibliographical Imagination"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016570001401?auth=SAML) (2012)
 + Whitney Anne Trettien, ["A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica"](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) (2013)
 + Martin Paul Eve, ["'You have to keep track of your changes': The Version Variants and Publishing History of David Mitchell's Cloud Atlas"](https://olh.openlibhums.org/article/10.16995/olh.82/) (2016)
 
-### Lab 6: Letterpress III
+### Lab 6: TBA
 
 -----
 
@@ -208,8 +209,9 @@ The majority of our readings will be available online or through [a digital cour
 + Ellen Gruber Garvey, ["Anonymity, Authorship, and Recirculation: A Civil War Episode"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016330001401?auth=SAML) (2006)
 + Leslee Thorne-Murphy, ["Re-Authorship: Authoring, Editing, and Coauthoring the Transatlantic Publications of Charlotte M. Yonge's Aunt Charlotte's Stories of Bible History"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016380001401?auth=SAML) (2010)
 + Rachael Scarborough King, "Introduction" to [*Writing to the World : Letters and the Origins of Modern Print Genres*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894268820001401?auth=SAML) (2018)
++ [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 
-### Lab 7: Reading Yesterday's News
+### Lab 7: Building a Bot
 
 # March 20: Interface
 
@@ -221,10 +223,10 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Penumbra:
 
-+ Alan Galey, ["The Enkindling Reciter: E-Books in the Bibliographical Imagination"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016570001401?auth=SAML) (2012)
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649) (2013)
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016650001401?auth=SAML) (2014)
++ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
 + Kate Crawford and Vladan Joler, ["Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor"](https://anatomyof.ai/) (2018)
-+ [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 
 ### Lab 8: Building a Bot I
 
@@ -293,15 +295,6 @@ The majority of our readings will be available online or through [a digital cour
 
 -----
 
-# April 17: Circuit
+# April 17: TBD
 
-## Core:
-
-+ (watch) ["Elektrobiblioteka / Electrolibrary"](https://vimeo.com/47656204) (2012)
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649) (2013)
-
-## Penumbra:
-
-+ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
-
-### Lab 12: TBA
+### Seminar Unpaper Presentations
