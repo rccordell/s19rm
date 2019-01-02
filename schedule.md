@@ -74,7 +74,7 @@ The majority of our readings will be available online or through [a digital cour
 ## Penumbra:
 
 + Robert Darnton, ["What is the History of Books?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892825030001401?auth=SAML) (1982)
-+ Leah Price, ["From The History of the Book to a 'History of the Book'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993000001401?auth=SAML) (2009)
++ Leah Price, ["From The History of the Book to a 'History of the Book'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8892823930001401?auth=SAML) (2009)
 + Jessica Pressman, ["The Aesthetic of Bookishness in Twenty-First Century Literature"](http://hdl.handle.net/2027/spo.act2080.0048.402) (2009)
 + Patricia Crain, "Reading Childishly? A Codicology of the Modern Self" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993570001401?auth=SAML) (2013)
 + Matthew Kirschenbaum and Sarah Werner, ["Digital Scholarship and Digital Studies: the State of the Discipline"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993700001401?auth=SAML) (2014)
@@ -105,7 +105,7 @@ The majority of our readings will be available online or through [a digital cour
 ## Core:
 
 + Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II)
-+ Elyse Graham, ["The Printing Press as Metaphor"](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html) (2016)
++ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996790001401?auth=SAML) (2013)
 + Amaranth Borsuk, "The Book as Content" from *The Book* (2018)
 + Marcy J. Dinius, ["Press"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994710001401?auth=SAML) (2018)
 
@@ -114,7 +114,7 @@ The majority of our readings will be available online or through [a digital cour
 + Elizabeth Eisenstein, ["An Unacknowledged Revolution Revisited"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994820001401?auth=SAML) (2002)
 + (Watch) Stephen Fry, [*The Machine That Made Us*](http://www.veoh.com/watch/v18714625RMJnrG8x) (2008) *Note: This video is about 1 hour long; plan accordingly!*
 + Ann Blair, "Introduction" from [*Too Much To Know*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996330001401?auth=SAML) (2011)
-+ Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996790001401?auth=SAML) (2013)
++ Elyse Graham, ["The Printing Press as Metaphor"](http://www.digitalhumanities.org/dhq/vol/10/3/000264/000264.html) (2016)
 + Matthew P. Brown, ["Blanks: Data, Method, and the British American Print Shop"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893997900001401?auth=SAML) (2017)
 
 ### Lab 4: Letterpress I
@@ -130,7 +130,7 @@ The majority of our readings will be available online or through [a digital cour
   + ["The Victoria Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009510001401?auth=SAML) *Illustrated London News* (15 June 1861)
   + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009560001401?auth=SAML) *English Woman's Journal* (1861)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
-+ Matthew G. Kirschenbaum, TBA from *Track Changes: a Literary History of Word Processing* (2016)
++ Matthew G. Kirschenbaum, "Introduction: It Is Known" and "Word Processing as a Literary Subject" from *Track Changes: a Literary History of Word Processing* (2016)
 
 ## Penumbra:
 
@@ -180,8 +180,8 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Penumbra:
 
-+ G. Thomas Tanselle, "The Bibliographical Concepts of 'Issue' and 'State'" (1975)
-+ Christopher Looby, "Southworth and Seriality" (2004)
++ G. Thomas Tanselle, ["The Bibliographical Concepts of 'Issue' and 'State'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733540001401?auth=SAML) (1975)
++ Christopher Looby, ["Southworth and Seriality"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733540001401?auth=SAML) (2004)
 + Joseph Viscomi, ["Illuminated Printing" exhibit](http://www.blakearchive.org/staticpage/biography?p=illuminatedprinting) from the *William Blake Archive*
 + Alan Galey, ["The Enkindling Reciter: E-Books in the Bibliographical Imagination"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016570001401?auth=SAML) (2012)
 + Whitney Anne Trettien, ["A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica"](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) (2013)
@@ -201,7 +201,7 @@ The majority of our readings will be available online or through [a digital cour
  
 + Meredith McGill, "A Matter of the Text" from [*American Literature and the Culture of Reprinting, 1834-1853*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016070001401?auth=SAML) (2007)
 + Jim Ridolfo and Dànielle Nicole DeVoss, ["Composing for Recomposition: Rhetorical Velocity and Delivery"](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) (2009) *Note: make sure to read each of the sections in the table of contents at the top*
-+ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](http://viraltexts.org/2016/04/08/fugitive-verses/) (2017). Also Read "Beautiful Snow" and 4 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
++ Ryan Cordell and Abby Mullen, ["'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733660001401?auth=SAML) (2017). Also Read "Beautiful Snow" and 2 other verses of your choosing from [*Fugitive Verses*](http://fugitiverses.viraltexts.org), looking at the example poems at the example newspaper printing linked at the top of each.
 
 ## Penumbra:
 
@@ -223,12 +223,12 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Penumbra:
 
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://scholarworks.iu.edu/journals/index.php/textual/article/view/5051/4649) (2013)
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016650001401?auth=SAML) (2014)
 + Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
 + Kate Crawford and Vladan Joler, ["Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor"](https://anatomyof.ai/) (2018)
 
-### Lab 8: Building a Bot I
+### Lab 8: Electronic Literature
 
 -----
 
@@ -238,7 +238,7 @@ The majority of our readings will be available online or through [a digital cour
 
 + Jerome McGann, ["The Textual Condition"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016810001401?auth=SAML) (1991)
 + Sydney Shep, ["'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016710001401?auth=SAML) (2010)
-+ Denis Tenen, "Computational Poetics: An Introduction" and "Metaphor Machines" from *Plain Text: The Poetics of Computation* (2018)
++ Denis Tenen, "Computational Poetics: An Introduction" and "Metaphor Machines" from [*Plain Text: The Poetics of Computation*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733860001401?auth=SAML) (2018)
 
 ## Penumbra:
 
@@ -278,14 +278,12 @@ The majority of our readings will be available online or through [a digital cour
 ## Core:
 
 + Roberto Busa, ["Why Can a Computer Do So Little?"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020390001401?auth=SAML) (1976)
-+ Stephen Ramsay, TBA from *Reading Machines: Toward an Algorithmic Criticism*
++ Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from [*Reading Machines: Toward an Algorithmic Criticism*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733860001401?auth=SAML)
 + Benjamin M. Schmidt, ["Do Humanists Need to Understand Algorithms?"](http://dhdebates.gc.cuny.edu/debates/text/99) from *Debates in Digital Humanities 2016*
 + Annette Vee, "Introduction: Computer Programming as Literacy" from [*Coding Literacy: How Computer Programming is Changing Writing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894017200001401?auth=SAML) (2018)
 
 ## Penumbra:
 
-+ Cecily Carver, ["Things I Wish Someone Had Told Me When I Was Learning How to Code"](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.qonuz995v) (2013)
-+ Vikram Chandra, ["The Beauty of Code"](https://www.theparisreview.org/blog/2014/09/05/the-beauty-of-code/) (2014)
 + Lauren Klein, ["The Carework and Codework of the Digital Humanities"](http://lklein.com/2015/06/the-carework-and-codework-of-the-digital-humanities/) (2015)
 + Paul Ford, ["What Is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) (2015)
 + Ted Underwood, ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html) (2017)
