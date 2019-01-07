@@ -4,6 +4,10 @@ title: Assignments
 bigimg: /img/VictoriaPress-banner.jpg
 ---
 
+## Course Assignments
+
+Your work in Reading Machines will happen across four major assignments:
+
 + [Leading Class Discussion](/assignments/discussion)
 + [Fieldbook](/assignments/fieldbook)
 + [Dead Media Poster](/assignments/dead-media)
@@ -22,6 +26,8 @@ In addition, Reading Machines is an experimental course in which I want you to f
 ## Consultative Grading
 
 Ultimately, the university will require me to assign a grade to your work this semester. In order to address the concerns outlined above and create space for experimentation, you will assess your own work in this class, in dialogue with me, as mentor rather than judge. You will ultimately grade your own work based on an assessment of the goals you set for yourself, your work to meet those goals, your intellectual growth during the class, and the outcomes of your assignments.
+
+Formally, this means that I will ask you to draft self-evaluations a few times during the semester, including a final self-evaluation in which you will assign yourself a grade. Barring extreme circumstances (see the Adjustment Caveat below) this will be your grade for the semester. Ideally, knowing this process in advance will free you to do more ambitious work from the beginning of the semester. 
 
 ### My Commitments 
 
@@ -46,7 +52,7 @@ This system will only work, however, if you also commit to:
 6. Respecting your colleagues' identity, perspectives, and intellectual commitments in class discussions and assignments. You may push them to consider other perspectives, but you should not dismiss their thoughts or take them lightly. If someone feels you are doing either of those things, you should listen and adjust your responses as necessary. See our [class code of conduct](/policies/) for more details.
 7. Meeting with me, in person or via Skype, at least two times during the semester to discuss your work and ensure you are meeting expectations (my own and yours) for work in the class. 
 
-### Adjustment Clause
+### Adjustment Caveat
 
 I do reserve the right to adjust grades as appropriate, if a student takes undue advantage of the consultative grading paradigm. However, I do not anticipate needing to exercise this right.
 
