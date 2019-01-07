@@ -4,82 +4,49 @@ title: Assignments
 bigimg: /img/VictoriaPress-banner.jpg
 ---
 
-# I. Leading Class Discussion
++ [Leading Class Discussion](/assignments/discussion)
++ [Fieldbook](/assignments/fieldbook)
++ [Dead Media Poster](/assignments/dead-media)
++ [Final Seminar Unpaper](/assignments/unpaper)
 
-Once during the semester you will be responsible for leading our class discussion. This means a few things:
+## The Trouble with Grading
 
-1. You should read all the readings—including the optional readings—for your week carefully and well in advance.
-2. You may also tweak our readings for your week by adding one additional article and possibly moving one required reading into the optional category. You should speak with me well in advance about either, as I might see something essential in a piece that is not obvious to you. Any decision to change the reading schedule should be made at least one week prior to your assigned session, so that your colleagues have time to adjust their preparations.
-3. You should come to your assigned class ready with a few questions or points you would like to discuss. I do not expect you to steer us for the entire discussion period, but certainly for the first 20 minutes or so.
+As you no doubt know, grading can be a contentious issue in college courses, particularly in writing- and discussion-based courses, where grades can seem arbitrary and contestable. Grading in school does not much resemble the way you will be evaluated in your lives or careers, where you will define many of your own goals and be measured by how responsibly and effectively you achieve them. For these reasons, in my undergraduate classes I have moved toward contract grading. To quote Cathy Davidson, a professor at CUNY from whom most of my ideas about contract grading are adapted:
 
----
+> The advantage of contract grading is that you, the student, decide how much work you wish to do this semester; if you complete that work on time and satisfactorily, you will receive the grade for which you contracted. This means planning ahead, thinking about all of your obligations and responsibilities this semester and also determining what grade you want or need in this course. The advantage of contract grading to the professor is no whining, no special pleading, on the students part. If you complete the work you contracted for, you get the grade. Done. I respect the student who only needs a C, who has other obligations that preclude doing all of the requirements to earn an A in the course, and who contracts for the C and carries out the contract perfectly. (This is another one of those major life skills: taking responsibility for your own workflow.)
 
-# II. Fieldbooks
+In graduate courses, however, these issues are even more acute. Beginning with your comprehensive exams, in fact, you will move away from being given letter grades and toward a system where you must take ownership of your own work, ensuring it meets the standards of professional research and writing. Your professors will give you feedback and guidance—and will at points decide whether your work is sufficient to move to the next stage—but your comprehensive exam papers or dissertation chapters will not be given A's or B's. 
 
-"Reading Machines" is an experiential course that moves between discussion of readings and applied "humanities laboratories" each week. A central goal of the class will be to bring its two facets into conversation: to use our readings and discussions to contextualize our applied work in laboratories, and to use our applied work in laboratories to enrich our understanding of concepts from our readings. 
+In addition, Reading Machines is an experimental course in which I want you to feel empowered to experiment and even sometimes to fail. I want to create an environment in which intellectual risk-taking and creative scholarship can be rewarded, even when it does not pan out as hoped. 
 
-To help accomplish this goal, you will maintain a fieldbook, which will constitute your central scholarly activity throughout this semester. I call this assignment a "fieldbook" rather than a "journal" to convey its hybridity: week by week, your entries will include a mix of description, analysis, code, figures, or images. This ongoing assignment will give you the chance to organize the diverse tasks of the class' experiential work, practice the skills introduced in the labs, bring your experiential work into conversation with class readings and personal research, and experiment with ideas that will be further developed in your seminar unpaper (see below). 
+## Consultative Grading
 
-There will be two types of entries in your fieldbooks: **bibliographic annotation** and **lab report**.  
+Ultimately, the university will require me to assign a grade to your work this semester. In order to address the concerns outlined above and create space for experimentation, you will assess your own work in this class, in dialogue with me, as mentor rather than judge. You will ultimately grade your own work based on an assessment of the goals you set for yourself, your work to meet those goals, your intellectual growth during the class, and the outcomes of your assignments.
 
-## Bibliographic Annotation Entries
+### My Commitments 
 
-In order to help you attend closely to our course texts and prepare for each class, you should prepare a few paragraphs responding to the core readings and your chosen penumbral text. I mean a few paragraphs **in total**, *NOT* a few paragraphs per text. Your entries should synthesize and bring readings into conversation, and should focus on a few ideas you want to highlight rather than attempting to summarize everything in the readings. These entries should be prepared, roughly, in the style of the annotated bibliography. It will be easiest to complete this assignment if you jot down notes and ideas while reading.  
+In order to foster your progress this semester, I commit myself to:
 
-You should draft each bibliographic annotation fieldbook entry in its own `.md` file, following the naming convention outlined above, and commit it to your fieldbook repository prior to the pertinent class period. *To emphasize: each class preparation entry should be saved as a separate file in your Github repository.*
+1. Providing substantive and timely commentary on your assignments aimed at cultivating your research skills, analytical abilities, and scholarly voice.
+2. Making myself available for in-person consultation and practical help during office hours and at other scheduled times, including virtual meetings if we cannot find a mutually-agreeable time to meet on campus. 
+3. Assuming no technical expertise from students going into any of our laboratories. We will begin at the beginning, so that no one feels left behind. In order to ensure this happens, I will listen carefully to students if they feel lost and adjust a given lab plan as necessary to keep everyone together.
+4. Allowing students with expertise in particular technologies to challenge themselves and craft their own laboratory experiences beyond our work in class.
+5. Working with you to understand your goals and methods when you take intellectual risks in assignments, even if the final product does not turn out as expected.
+6. Respecting your identity, perspectives, and intellectual commitments in class discussions and assignments. I may push you to consider other perspectives, but I will not dismiss your thoughts or take them lightly. If you feel I am doing either of those things, I will listen and adjust my responses as necessary. See our [class code of conduct](/policies/) for more details.
 
-## Lab Report Entries
+### Your Commitments
 
-Your lab report entries will vary quite a bit from lab to lab. I may post a prompt for a lab to help start your thinking, in which ase you should begin your reports from these prompts. 
+This system will only work, however, if you also commit to:
 
-In each lab report entry, I will expect to find a brief  description of the lab activities completed and any outcomes (code, a material product, etc.). For coding labs, you will likely integrate code snippets directly into your Markdown file (more on this as those labs approach), while for other labs you may instead reference external proof of your work, such as photos. I will also expect prose that reflects analytically on the work of the lab, putting it into conversation with *one or two* readings *from the same week of class* as the lab, as well as readings drawn from the larger class or beyond where appropriate. This prose need not be quite as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for the class' Unessay projects.
+1. Holding yourself to the highest standards. You should work to the best of your abilities throughout the semester in your reading, class-room conversation, and assignments. 
+2. Taking intellectual risks when possible, pushing yourself to think, write, and create in new modes and grown as a scholar and teacher. This may prompt anxiety, which you can work through by doing and with my help (see above).
+3. Experimenting with new tools and learning new technical skills with enthusiasm and an open mind.
+4. Assisting your colleagues with our laboratories when you have prior expertise, or if you acquire it more quickly during the lab itself.
+5. Clearly articulating your goals and methods when you take intellectual risks in assignments so that I can understand what you are seeking to do, even if the final product does not turn out as expected.
+6. Respecting your colleagues' identity, perspectives, and intellectual commitments in class discussions and assignments. You may push them to consider other perspectives, but you should not dismiss their thoughts or take them lightly. If someone feels you are doing either of those things, you should listen and adjust your responses as necessary. See our [class code of conduct](/policies/) for more details.
+7. Meeting with me, in person or via Skype, at least two times during the semester to discuss your work and ensure you are meeting expectations (my own and yours) for work in the class. 
 
-## Organizing Your Fieldbook
+### Adjustment Clause
 
-Your fieldbook will be a collection of Markdown or `.md` files collected in a [Github Repository](https://github.com/). We will learn how to write in Markdown and contribute to a Github repository during the first laboratory (which you will reflect on in your first lab report). You will share the address of your repository with me so that I can check your progress. I may also ask to repost stellar fieldbook entries on our class website, either under your name or anonymously as you prefer.
+I do reserve the right to adjust grades as appropriate, if a student takes undue advantage of the consultative grading paradigm. However, I do not anticipate needing to exercise this right.
 
-You should name your files following the following convention:
-
-*For bibliographic nnnotation entries:*
-
-`YYYY-MM-DD-bibliographic-WHAT-WORDS-YOU-WANT.md`
-
-*For lab report entries:*
-
-`YYYY-MM-DD-labreport-WHAT-WORDS-YOU-WANT.md`
-
-### Flexibility
-
-Reading Machines is a challenging and full class. The semester will include thirteen weeks of readings and eleven or twelve humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete seven lab report entries. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. Your bibliographic annotation entries are due prior to the pertinent class, while lab report entries are due within two weeks of the pertinent lab session.
-
-# Dead Media Poster
-
-In [“Imagining the New Media Encounter,"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) Alan Liu suggests that “The déjá vu haunting of new by old media is clear enough.” New technologies and new modes of communication draw, both technically and metaphorically, from older modes—including “dead media” that have, to all surface appearances, entirely disappeared.
-
-To better understand this haunting, you will work in pairs to research a historical new medium and/or technology that flourished and then faded from popular view: some might call this [“media archaeology”](http://mediaarchaeologylab.com/). These new media might be very old or relatively new: new textual technologies have emerged since the invention of writing, while some popular technologies introduced as recently as a decade ago are already obsolete. 
-
-## How 'Dead' is Dead?
-
-I would ask that you employ a relatively strict, but not pedantic, definition of “dead media”: it should mean less than “completely and totally banished from human culture” and more than “no longer hip.” To put this idea another way: a small community of dedicated enthusiasts should not rescue a technology from being called “dead media,” but neither should we prematurely kill off a medium that is still in wide use, even if cutting edge users have moved on (think CDs, perhaps).
-
-## Resources for Finding a Medium
-
-You might consider this list from the original [Dead Media Project](http://www.deadmedia.org/notes/index-numeric.html) or from the [Dead Media Archive](http://cultureandcommunication.org/deadmedia/index.php/Main_Page) as you plan your topic. When choosing your medium, opt for the unfamiliar and the strange if at all possible—try to find a medium you suspect your colleagues have never heard of, or perhaps one they will *think* they know until its reality surprises them.
-
-## The Poster
-
-You will prepare a conference-style poster to present your “dead medium” to your classmates and instructor. If you’ve never created a research poster, consult the references on [the “poster session” Wikipedia page](http://en.wikipedia.org/wiki/Poster_session) for writing and design tips. Your poster should address on the following questions:
-
-1. How did this medium innovate, diverge, or respond to even earlier media? What precisely was new about it when it was the “new media?” Remember that for contemporanous people, these media were every bit as strange, exciting, or terrifying as the most cutting edge advances are to us today.
-2. What were the cultural effects of this medium during its heyday? Did it produce substantive changes in domestic life, politics, art, or other spheres? Were there cultural changes its creators sought, either successfully or unsuccessfully, to institute through the medium?
-3. Were there competing media that attempted to meet the same needs or fill the same niche as your chosen medium? How did this competition play out?
-4. How and why did your medium decline in importance?
-5. What were the lasting effects or products of your medium? Was it a media “dead end” or did new media evolve from it? How does your medium linger in descendants, images, memory, or language?
-
-You should not attempt on your poster to tell us everything that you might say about your chosen medium in a written paper nor explain its every nuance. When designing think CONCISE, INFORMATIVE, and CREATIVE. Students often choose to create a model or interactive aspect to their poster to help their colleagues understand their medium. The idea here is that the form’s restriction (paradoxically) promotes your creativity, as some might argue the formal restrictions of certain poetic forms force the poet toward ever-more-deft feats of language. You will have ample opportunity during the poster session to share more details and anecdotes from your research than you can fit onto your poster itself.
-
-**We will hold our “dead media” poster session in the lab section of class on January 30.**
-
-# Final Project (the Seminar Unpaper)
-
-More coming soon
