@@ -26,7 +26,8 @@ navbar-links:
   # About: "index"
   Policies: "policies"
   Schedule: "schedule"
-  Assignments: "assignments"
+  Assignments: 
+    - Overview and Grading: "assignments"
     - Leading Class Discussion: "assignments/discussion"
     - Fieldbook: "assignments/fieldbook"
     - Dead Media Poster: "assignments/dead-media"
