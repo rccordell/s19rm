@@ -28,7 +28,7 @@ Your fieldbook will be a collection of Markdown or `.md` files collected in a [G
 
 You should name your files following the following convention:
 
-*For bibliographic nnnotation entries:*
+*For bibliographic annotation entries:*
 
 `YYYY-MM-DD-bibliographic-WHAT-WORDS-YOU-WANT.md`
 
