@@ -75,24 +75,24 @@ As with any medium, of course, there are also *limitations* to writing in Markdo
 1. You have less granular control over the appearance of your text than you would in a full featured word processor. In order to ensure the flexibility and durability of Markdown, its grammar is relatively constrained. While you can indicate text should be `bold` or formatted in a `numbered list` using Markdown, for instance, you could indicate that one paragraph's font should be 2 points larger than another. 
 2. You typically have to convert Markdown files into another format before publication. This is not *quite* true on the web, where some frameworks like GitHub Pages can understand Markdown (as expressed in a Jekyll website) directly, but usually the production stage for a Markdown document involves converting your `md` file into another format, thus converting Markdown's structural encoding into actual stylistic representation.
 
-## Markdown References
+### Markdown References
 
 Below I will describe the most common Markdown syntax, but for additional reference you can consult:
 
 + The [Markdown Wikipedia page](https://en.wikipedia.org/wiki/Markdown), which includes a very handy chart of the syntax.
 + John Gruber's [introduction to Markdown](https://daringfireball.net/projects/markdown/syntax). Gruber developed the standard and knows what he's talking about!
 + This [interactive Markdown tutorial](http://www.markdowntutorial.com/), which will teach you the syntax in a few minutes.
-+ You can also download [the Markdown version of this page](https://github.com/rccordell/rccordell.github.io/blob/master/_posts/2018-11-08-Jekyll-GitHubPages-workshop.md) if you'd like to compare what you see in your browser with the marked-up text that created it (click the `Raw` button to see the Markdown without GitHub's styling).
++ You can also download [the Markdown versions of our class website pages](https://github.com/rccordell/s19rm) (all generated directly from Markdown) or [the Markdown for this very lab](https://github.com/rccordell/s19rm/blob/master/_posts/2019-01-09-Lab1-Markdown.md) if you'd like to compare what you see in your browser with the marked-up text that created it (click the `Raw` button to see the Markdown [without GitHub's styling](https://raw.githubusercontent.com/rccordell/s19rm/master/_posts/2019-01-09-Lab1-Markdown.md)).
 
 In short, in Markdown your text will not include any visible stylistic variations such as italics or bold text; Markdown is a *plain text* format. However, many Markdown Editors will be able to preview the way your documents will look like when they're styled.
 
-## Applications for Writing in Markdown
+### Applications for Writing in Markdown
 
 One advantage to this flat-text format is that you can write valid Markdown in many, many editors, including the free text editors (such as TextEdit on the Mac or Wordpad on the PC) that come with most computers. You can also write in Markdown in some rich text editors such as [Scrivener](https://www.literatureandlatte.com/scrivener.php), though their support for the standard can be uneven. 
 
 There are many dedicated Markdown composition applications with additional features, such as syntax highlighting or the ability to preview what your documents. 
 
-### Free Markdown Applications:
+#### Free Markdown Applications:
 
 + [Macdown](http://macdown.uranusjr.com/) (Mac)
 + [Mou](http://25.io/mou/) (Mac)
@@ -103,7 +103,7 @@ There are many dedicated Markdown composition applications with additional featu
 + [Hashify](http://hashify.me/IyBUaXRsZQ==) (online) 
 + a bit more complicated to get started with, but [Atom](https://atom.io/) is more full-featured than some of those above (Mac, Windows, Linux)
 
-### Paid Markdown Applications
+#### Paid Markdown Applications
 
 They can be pricey, but there are some beautifully-designed, paid Markdown-writing applications out there. I can't list them all, but here are two popular ones:   
   
@@ -112,15 +112,19 @@ They can be pricey, but there are some beautifully-designed, paid Markdown-writi
 
 To compose pages and blog posts for Jekyll using these desktop applications, you will need to sync a local folder on your computer to your Github repository.
 
-## Markdown Syntax
+### Markdown Syntax
 
-So, a few basics:
+Here are the very basics for writing in Markdown. If you use one of the editors above with a preview feature, you'll be able to see what you're doing as you type.
 
-1. If you want your text to be italicized, then *enclose it in single asterisks*. (i.e. \*enclose it in single asterisks\*).
+1. If you want your text to be italicized, then *enclose it in single asterisks* or _in underlines_. (i.e. \*enclose it in single asterisks\* or \_in underlines\_).
 2. If you want your text to be bold, then **enclose it in double asterisks**. (i.e. \*\*enclose it in double asterisks\*\*).
 3. To start a new paragraph, simply hit return twice, so that you see a single line space in between paragraphs.
 4. To start a new line without a paragraph break, add two spaces to the end of the first line and then hit return once.
 5. To create a hyperlink, enclose the [words you want linked in brackets and the link in parentheses following](http://ryancordell.org/). 
-	i.e. [words you want linked in brackets and the link in parentheses following]\(http://ryancordell.org/\)    
+	i.e. [words you want linked in brackets and the link in parentheses following]\(http://ryancordell.org/\).   
 
 You can also create headlines of descending sizes, lists (numbered or bulleted), footnotes, block quotations, embedded images, and more. See the reference materials above for details on these other elements.
+
+## Lab Report 1
+
+Your first lab report has a wide mandate, and will give you the chance to experiment with weaving together your ideas from our first week's reading and discussion with a thoughtful engagement with our first laboratory. Do not try to discuss every reading or point you might; instead, choose 1-2 readings and one central idea to dig into. Use your lab report to bring together theory and praxis, to begin understand *doing* as a critical and intellectual practice intimately related to *thinking* or *writing*. In this case, what might Markdown have to say to our burgeoning understanding of media and materiality? 
