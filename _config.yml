@@ -27,6 +27,10 @@ navbar-links:
   Policies: "policies"
   Schedule: "schedule"
   Assignments: "assignments"
+    - Leading Class Discussion: "assignments/discussion"
+    - Fieldbook: "assignments/fieldbook"
+    - Dead Media Poster: "assignments/dead-media"
+    - Seminar Unpaper: "assignments/unpaper"
   News: "news"
 
 
