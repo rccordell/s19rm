@@ -64,6 +64,8 @@ The majority of our readings will be available online or through [a digital cour
 
 # January 23: Book
 
+**Meet in the Northeastern Archives & Special Collections, 92 Snell Library (in the basement)**
+
 ## Core:
 
 + Charles W. Chesnutt, ["Baxter's Procustes"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893992610001401?auth=SAML) (1904)

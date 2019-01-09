@@ -9,6 +9,16 @@ author: rccordell
 
 Your [fieldbook assignment](/assignments/fieldbook) constitutes the central, ongoing work of your semester where you will record your ideas about our readings in *bibliographic annotation* entries and think through the work of our humanities laboratories in *lab report* entries. You will gather all of these materials in a repository on [Github](https://github.com/). You will write using the Markdown syntax, which I describe below and which we will discuss in detail during today's laboratory.
 
+## Lab Report 1 Prompt
+
+Your first lab report has a wide mandate, and will give you the chance to experiment with weaving together your ideas from our first week's reading and discussion with a thoughtful engagement with our first laboratory. Do not try to discuss every reading or point you might; instead, choose 1-2 readings and one central idea to dig into. Use your lab report to bring together theory and praxis, to begin understand *doing* as a critical and intellectual practice intimately related to *thinking* or *writing*. In this case, what might Markdown have to say to our burgeoning understanding of media and materiality? 
+
+### Required Software
+
++ A [Github](https://github.com/) or [Github Education](https://education.github.com/) account
++ [Github Desktop](https://desktop.github.com/)
++ a text editor, and ideally a Markdown-aware one (see lists below)
+
 ## Working with Github
 
 You may sign up for a free Github account or, if you would like the option to create private repositories, apply for a free Pro account under [Github Education](https://education.github.com/). I recommend the latter, which is available to you while you are a student.
@@ -102,6 +112,7 @@ There are many dedicated Markdown composition applications with additional featu
 + [Remarkable](https://remarkableapp.github.io/) (Linux)
 + [Hashify](http://hashify.me/IyBUaXRsZQ==) (online) 
 + a bit more complicated to get started with, but [Atom](https://atom.io/) is more full-featured than some of those above (Mac, Windows, Linux)
++ It's not specifically a Markdown application, but [Prose.io](http://prose.io/) allows you to edit files in a Github repository and commit them all online.
 
 #### Paid Markdown Applications
 
@@ -124,7 +135,3 @@ Here are the very basics for writing in Markdown. If you use one of the editors 
 	i.e. [words you want linked in brackets and the link in parentheses following]\(http://ryancordell.org/\).   
 
 You can also create headlines of descending sizes, lists (numbered or bulleted), footnotes, block quotations, embedded images, and more. See the reference materials above for details on these other elements.
-
-## Lab Report 1
-
-Your first lab report has a wide mandate, and will give you the chance to experiment with weaving together your ideas from our first week's reading and discussion with a thoughtful engagement with our first laboratory. Do not try to discuss every reading or point you might; instead, choose 1-2 readings and one central idea to dig into. Use your lab report to bring together theory and praxis, to begin understand *doing* as a critical and intellectual practice intimately related to *thinking* or *writing*. In this case, what might Markdown have to say to our burgeoning understanding of media and materiality? 
