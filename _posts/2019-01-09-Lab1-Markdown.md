@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lab 1\: Markdown
+title: "Lab #1: Markdown"
 tags: [lab, fieldbook]
 author: rccordell
 ---
@@ -51,7 +51,7 @@ Each file should begin with a header following this convention:
 ```
 ---  
 layout: post  
-title: TITLE HERE  
+title: "TITLE HERE"  
 tags: [bibliographic annotation, fieldbook]  
 author: YOUR NAME HERE 
 ---
@@ -62,7 +62,7 @@ author: YOUR NAME HERE
 ```
 ---  
 layout: post  
-title: TITLE HERE  
+title: "TITLE HERE"  
 tags: [lab report, fieldbook]  
 author: YOUR NAME HERE 
 ---
