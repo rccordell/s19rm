@@ -58,7 +58,7 @@ The majority of our readings will be available online or through [a digital cour
 + Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from [*Racing the Beam: The Atari Video Computer System*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991780001401?auth=SAML) (2009)
 + Jonathan Sterne, "Format Theory" from [*MP3: The Meaning of a Format*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991830001401?auth=SAML) (2012)
 
-### Lab 2: Illuminating the Text
+### Lab 2: Formatting the Book
 
 ----- 
 
