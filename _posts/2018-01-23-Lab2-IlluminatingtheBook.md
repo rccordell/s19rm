@@ -3,6 +3,7 @@ layout: page
 title: "Lab #2: Illuminating the Book"
 tags: [lab, fieldbook]
 author: rccordell
+permalink: /labs/Lab2-Illuminating/
 ---
 
 Let's start with a quote from Marshall McLuhan, which we discussed last week:

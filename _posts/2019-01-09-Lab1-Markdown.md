@@ -3,6 +3,7 @@ layout: post
 title: "Lab #1: Markdown"
 tags: [lab, fieldbook]
 author: rccordell
+permalink: /labs/Lab1-Markdown/
 ---
 
 ## Lab Overview

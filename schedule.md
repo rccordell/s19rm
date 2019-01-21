@@ -58,7 +58,7 @@ The majority of our readings will be available online or through [a digital cour
 + Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from [*Racing the Beam: The Atari Video Computer System*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991780001401?auth=SAML) (2009)
 + Jonathan Sterne, "Format Theory" from [*MP3: The Meaning of a Format*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893991830001401?auth=SAML) (2012)
 
-### Lab 2: Formatting the Book
+### [Lab 2: Illuminating the Book](/labs/Lab2-Illuminating/)
 
 ----- 
 
@@ -141,6 +141,7 @@ The majority of our readings will be available online or through [a digital cour
 + Ellen Cushman, ["'We're Taking the Genius of Sequoyah into This Century': The Cherokee Syllabary, Peoplehood, and Perseverance"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009840001401?auth=SAML) (2011)
 + Andrew Piper, ["Deleafing: The History and Future of Losing Print"](http://www.enl.auth.gr/gramma/gramma13/2.pdf) (2013)
 + Joshua Ratner, ["Paratexts"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894012090001401?auth=SAML) (2018)
++ Blog posts from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series.
 
 ###  Lab 5: Letterpress II
 
@@ -244,11 +245,11 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Penumbra:
 
-+ Blog posts from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series.
 + Michael Whitmore, ["Text: A Massively Addressable Object,"](http://dhdebates.gc.cuny.edu/debates/text/28) from *Debates in the Digital Humanities* (2012)
 + Rita Raley, "TXTual Practice," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
 + Johanna Drucker, "From A to Screen," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
 + Hannah Alpert-Abrams, ["Machine Reading the *Primeros Libros*](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
++ Scott Weingart, ["The Route of a Text Message"](http://scottbot.net/the-route-of-a-text-message/) (2019)
 
 ### Lab 9: Computational Text Analysis I
 
