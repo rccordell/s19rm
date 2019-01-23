@@ -81,7 +81,7 @@ The majority of our readings will be available online or through [a digital cour
 + Patricia Crain, "Reading Childishly? A Codicology of the Modern Self" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993570001401?auth=SAML) (2013)
 + Matthew Kirschenbaum and Sarah Werner, ["Digital Scholarship and Digital Studies: the State of the Discipline"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893993700001401?auth=SAML) (2014)
 
-### Lab 3: Into the Archives
+### [Lab 3: Into the Archives/Thinking with the Codex](/labs/Lab3-Archive/)
 
 -----
 
