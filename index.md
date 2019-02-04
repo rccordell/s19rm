@@ -12,7 +12,7 @@ bigimg: /img/letterpress.jpg
 Meeting Room: Holmes Hall 472  
 Day & Time: Wednesdays, 4:30-7:50pm  
 Professor: [Ryan Cordell](mailto:r.cordell@northeastern.edu)  
-Spring Office Hours: TBA
+Spring Office Hours: Wednesdays 2:30-4pm, Friday 10-11am, and by appointment
 
 ## Course Description
 

@@ -21,6 +21,6 @@ To frame this in another way, the candle is a non-textual medium that has profou
 
 ## Lab Report 2 Prompt
 
-For this lab report, I want you to to two things. First, to reflect as always on the lab we conducted together. How does working by candlelight help you think about early practices of textual production and the codex format? What new insights are produced by the experience? 
+For this lab report, I want you to do two things. First, to reflect as always on the lab we conducted together. How does working by candlelight help you think about early practices of textual production and the codex format? What new insights are produced by the experience? 
 
 Second, I would ask you to choose another format: perhaps something more contemporary, such as a software format, or something related to your own area of research interest. Then, I would ask you to consider—and this might require some brief additional research—a technical or material element that influences the form, production, or use of your format. You have latitude here, but you should be considering something that seems on first glance to stand apart from the content of your format, as the candle perhaps seems separate from the content of the manuscripts produced by its light. What new insight might we glean by considering these elements together, or by widening our lens from a given medium to the technologies or materials central to its expression? 

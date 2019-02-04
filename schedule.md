@@ -123,7 +123,9 @@ The majority of our readings will be available online or through [a digital cour
 
 -----
 
-# February 13: Type
+# February 12 (6-9pm): Type
+
+**Note the different meeting day/time this week.**
 
 ## Core:
 
