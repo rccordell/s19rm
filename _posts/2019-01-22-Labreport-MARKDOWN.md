@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lab 1: Encountering the Unknown "
+title: "Model Report Entry from Lab 1"
 tags: [lab report, fieldbook, model]
 author: Laura Johnson
 permalink: /models/Lab1-markdown/

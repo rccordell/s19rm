@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Week 4"
+title: "Model Bibliographic Entry from Week 4"
 tags: [bibliographic annotation, fieldbook]
 author: Laura Johnson
 permalink: /models/week4-bibliographic/
