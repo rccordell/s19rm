@@ -106,7 +106,7 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Core:
 
-+ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II)
++ Benjamin Franklin, [*The Autobiography of Benjamin Franklin*, Chapters 2-7](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II) or in [this edition](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9081705360001401?auth=SAML) without chapters (read from pg. 14 "From a child I was fond of reading" to pg. 53 "I think this was in or about the year 1729.")
 + Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893996790001401?auth=SAML) (2013)
 + Amaranth Borsuk, "The Book as Content" from *The Book* (2018)
 + Marcy J. Dinius, ["Press"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8893994710001401?auth=SAML) (2018)
