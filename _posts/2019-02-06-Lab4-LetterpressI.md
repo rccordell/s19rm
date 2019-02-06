@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Lab #4: "
+title: "Lab #4: Composing the Text"
 tags: [lab, fieldbook]
 author: rccordell
-permalink: /labs/Lab3-Archive/
+permalink: /labs/Lab4-Compositing/
 ---
 
 For today's lab you will set as much as possible of the following poem, which was widely reprinted in nineteenth-century newspapers. This version appeared in the *Winchester Home Journal on May 6, 1858.
