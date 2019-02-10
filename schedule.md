@@ -134,7 +134,7 @@ The majority of our readings will be available online or through [a digital cour
   + ["The Victoria Press,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009510001401?auth=SAML) *Illustrated London News* (15 June 1861)
   + Emily Faithfull, ["Women Compositors,"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894009560001401?auth=SAML) *English Woman's Journal* (1861)
 + Sarah Werner, ["Finding Women in the Printing Shop"](http://sarahwerner.net/blog/2014/10/finding-women-in-the-printing-shop/) (2014)
-+ Matthew G. Kirschenbaum, "Introduction: It Is Known" and "Word Processing as a Literary Subject" from *Track Changes: a Literary History of Word Processing* (2016)
++ Matthew G. Kirschenbaum, "Introduction: It Is Known" and "Word Processing as a Literary Subject" from [*Track Changes: a Literary History of Word Processing*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9090062070001401?auth=SAML) (2016)
 
 ## Penumbra:
 
