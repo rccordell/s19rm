@@ -179,14 +179,14 @@ The majority of our readings will be available online or through [a digital cour
 
 ## Core: 
 
-+ William Blake, ["The Tyger"](http://www.blakearchive.org/exist/blake/archive/object.xq?objectid=songsie.b.illbk.35&java=no) and ["London"](http://www.blakearchive.org/exist/blake/archive/object.xq?objectid=songsie.b.illbk.36&java=no) (For each poem, compare at least 3 editions).
++ William Blake, ["The Tyger"](http://www.blakearchive.org/copy/songsie.e?descId=songsie.e.illbk.40) and ["London"](http://www.blakearchive.org/copy/songsie.e?descId=songsie.e.illbk.41) (For each poem, compare at least 3 editions by clicking "Objects from the Same Matrix" below the page image).
 + Donald F. McKenzie, "The Book as an Expressive Form" from [*Bibliography and the Sociology of Texts*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894015240001401?auth=SAML) (orig. 1986)
 + Ryan Cordell, ["'Q i-jtb the Raven': Taking Dirty OCR Seriously"](https://ryancordell.org/research/qijtb-the-raven/) (2017)
 
 ## Penumbra:
 
 + G. Thomas Tanselle, ["The Bibliographical Concepts of 'Issue' and 'State'"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733540001401?auth=SAML) (1975)
-+ Christopher Looby, ["Southworth and Seriality"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733540001401?auth=SAML) (2004)
++ Christopher Looby, ["Southworth and Seriality"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733600001401?auth=SAML) (2004)
 + Joseph Viscomi, ["Illuminated Printing" exhibit](http://www.blakearchive.org/staticpage/biography?p=illuminatedprinting) from the *William Blake Archive*
 + Alan Galey, ["The Enkindling Reciter: E-Books in the Bibliographical Imagination"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016570001401?auth=SAML) (2012)
 + Whitney Anne Trettien, ["A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica"](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) (2013)
