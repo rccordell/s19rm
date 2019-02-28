@@ -145,7 +145,7 @@ The majority of our readings will be available online or through [a digital cour
 + Joshua Ratner, ["Paratexts"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894012090001401?auth=SAML) (2018)
 + Blog posts from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series.
 
-###  Lab 5: Letterpress II
+###  [Lab 5: Letterpress II](/labs/Lab5-LetterpressII/)
 
 -----
 
@@ -192,7 +192,7 @@ The majority of our readings will be available online or through [a digital cour
 + Whitney Anne Trettien, ["A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica"](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) (2013)
 + Martin Paul Eve, ["'You have to keep track of your changes': The Version Variants and Publishing History of David Mitchell's Cloud Atlas"](https://olh.openlibhums.org/article/10.16995/olh.82/) (2016)
 
-### Lab 6: TBA
+### [Lab 6: Letterpress III](/labs/Lab6-LetterpressIII/)
 
 -----
 
