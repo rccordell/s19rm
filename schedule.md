@@ -218,26 +218,7 @@ The majority of our readings will be available online or through [a digital cour
 
 ### Lab 7: Building a Bot
 
-# March 20: Interface
-
-## Core:
-
-+ Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017)
-+ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
-+ Amaranth Borsuk, "The Book as Idea" and "The Book as Interface" from *The Book* (2018)
-
-## Penumbra:
-
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
-+ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016650001401?auth=SAML) (2014)
-+ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
-+ Kate Crawford and Vladan Joler, ["Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor"](https://anatomyof.ai/) (2018)
-
-### Lab 8: Electronic Literature
-
------
-
-# March 27: Text
+# March 20: Text
 
 ## Core: 
 
@@ -253,11 +234,11 @@ The majority of our readings will be available online or through [a digital cour
 + Hannah Alpert-Abrams, ["Machine Reading the *Primeros Libros*](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
 + Scott Weingart, ["The Route of a Text Message"](http://scottbot.net/the-route-of-a-text-message/) (2019)
 
-### Lab 9: Computational Text Analysis I
+### Lab 8: Computational Text Analysis I
 
 -----
 
-# April 3: Data
+# March 27: Data
 
 ## Core:
 
@@ -274,11 +255,11 @@ The majority of our readings will be available online or through [a digital cour
 + Katie Rawson and Trevor Muñoz, ["Against Cleaning"](http://curatingmenus.org/articles/against-cleaning/) (2016)
 + Molly O’Hagan Hardy, ["'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,"](http://dhdebates.gc.cuny.edu/debates/text/82), from *Debates in the Digital Humanities 2016*
 
-### Lab 10: Computational Text Analysis II
+### Lab 9: Computational Text Analysis II
 
 -----
 
-# April 10: Code
+# April 3: Code
 
 ## Core:
 
@@ -295,7 +276,26 @@ The majority of our readings will be available online or through [a digital cour
 + Richard Jean So, ["All Models are Wrong"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020530001401?auth=SAML) (2017)
 + Alison Booth, ["Mid-Range Reading: Not a Manifesto"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894020660001401?auth=SAML) (2017)
 
-### Lab 11: Computational Text Analysis III
+### Lab 10: Computational Text Analysis III
+
+-----
+
+# April 10: Interface
+
+## Core:
+
++ Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017)
++ Élika Ortega, ["Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/) (2017)
++ Amaranth Borsuk, "The Book as Idea" and "The Book as Interface" from *The Book* (2018)
+
+## Penumbra:
+
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, ["Bibliocircuitry and the Design of the Alien Everyday"](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/9006733760001401?auth=SAML) (2013)
++ Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from [*Reading Writing Interfaces: From the Digital to the Bookbound*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016650001401?auth=SAML) (2014)
++ Craig Mod, ["Future Reading"](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print) (2015)
++ Kate Crawford and Vladan Joler, ["Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor"](https://anatomyof.ai/) (2018)
+
+### Lab 11: Electronic Literature
 
 -----
 
