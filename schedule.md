@@ -231,7 +231,7 @@ The majority of our readings will be available online or through [a digital cour
 + Michael Whitmore, ["Text: A Massively Addressable Object,"](http://dhdebates.gc.cuny.edu/debates/text/28) from *Debates in the Digital Humanities* (2012)
 + Rita Raley, "TXTual Practice," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
 + Johanna Drucker, "From A to Screen," in [*Comparative Textual Media*](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/citation/8894016870001401?auth=SAML) (2013)
-+ Hannah Alpert-Abrams, ["Machine Reading the *Primeros Libros*](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
++ Hannah Alpert-Abrams, ["Machine Reading the *Primeros Libros*"](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html) (2016)
 + Scott Weingart, ["The Route of a Text Message"](http://scottbot.net/the-route-of-a-text-message/) (2019)
 
 ### Lab 8: Computational Text Analysis I
